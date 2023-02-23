@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c4cad0ddbecae5b42907fb6dfb08d9fd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_PeriodicTablePrefab: {instanceID: 0}
+  - m_PrefabToPlace: {instanceID: 0}
+  - PlacementIndicator: {instanceID: 0}
+  - CanvasObject: {instanceID: 0}
+  - arCamera: {instanceID: 0}
+  - elementMaterial: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
